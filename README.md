@@ -5,19 +5,25 @@
 :envelope_with_arrow: Geri dönüş için buradan veya [DonanımHaber](https://forum.donanimhaber.com/profil/794792#!/) ya da [Steam](https://steamcommunity.com/id/qabriel99) profilim üzerinden iletişime geçebilirsiniz.
 
 ## :camera: Ekran Görüntüleri
-<table>
-<td><img src="https://mobile.donanimhaber.com/store/bf/22/61/bf226177123ef9c353996408b6f9d4b0.jpeg" width="256" height="144" /></td>
-<td><img src="https://mobile.donanimhaber.com/store/ba/cd/e1/bacde1474b044c38ff2ec2384d672224.jpeg" width="256" height="144" /></td>
-<td><img src="https://mobile.donanimhaber.com/store/08/1e/85/081e85d567e7e6397ea505b22f22e040.jpeg" width="256" height="144" /></td>
-<td><img src="https://mobile.donanimhaber.com/store/1e/dd/d8/1eddd80b974a78c92b363e7db585d2ab.jpeg" width="256" height="144" /></td>
-</tr>
-<tr>
-<td><img src="https://mobile.donanimhaber.com/store/8b/61/46/8b614654fe3eda3f04a051d208d49e90.jpeg" width="256" height="144" /></td>
-<td><img src="https://mobile.donanimhaber.com/store/03/39/7e/03397eae840f6057e776b67178cc0694.jpeg" width="256" height="144" /></td>
-<td><img src="https://mobile.donanimhaber.com/store/93/88/8a/93888aa86f63d27e4c067152714741d9.jpeg" width="256" height="144" /></td>
-<td><img src="https://mobile.donanimhaber.com/store/97/13/94/97139461995b466f68f4060ae3b7814b.jpeg" width="256" height="144" /></td>
-</tr>
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <td style="width: 50%;"><img src="https://mobile.donanimhaber.com/store/bf/22/61/bf226177123ef9c353996408b6f9d4b0.jpeg" width="100%" height="auto" /></td>
+    <td style="width: 50%;"><img src="https://mobile.donanimhaber.com/store/ba/cd/e1/bacde1474b044c38ff2ec2384d672224.jpeg" width="100%" height="auto" /></td>
+  </tr>
+  <tr>
+    <td style="width: 50%;"><img src="https://mobile.donanimhaber.com/store/08/1e/85/081e85d567e7e6397ea505b22f22e040.jpeg" width="100%" height="auto" /></td>
+    <td style="width: 50%;"><img src="https://mobile.donanimhaber.com/store/1e/dd/d8/1eddd80b974a78c92b363e7db585d2ab.jpeg" width="100%" height="auto" /></td>
+  </tr>
+  <tr>
+    <td style="width: 50%;"><img src="https://mobile.donanimhaber.com/store/8b/61/46/8b614654fe3eda3f04a051d208d49e90.jpeg" width="100%" height="auto" /></td>
+    <td style="width: 50%;"><img src="https://mobile.donanimhaber.com/store/03/39/7e/03397eae840f6057e776b67178cc0694.jpeg" width="100%" height="auto" /></td>
+  </tr>
+  <tr>
+    <td style="width: 50%;"><img src="https://mobile.donanimhaber.com/store/93/88/8a/93888aa86f63d27e4c067152714741d9.jpeg" width="100%" height="auto" /></td>
+    <td style="width: 50%;"><img src="https://mobile.donanimhaber.com/store/97/13/94/97139461995b466f68f4060ae3b7814b.jpeg" width="100%" height="auto" /></td>
+  </tr>
 </table>
+
 
 ## :floppy_disk: İndirme Bağlantısı
 https://github.com/qabRieL99/HalfLifeAlyxTurkce/releases
